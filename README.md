@@ -28,6 +28,3 @@ Simply open the `index.html` file in your browser to view the digital clock.
 ## Customization
 - Modify `index.css` to change the appearance of the clock.
 - Update `index.js` to adjust time format or add features.
-
-## License
-This project is open source and available under the MIT License.
