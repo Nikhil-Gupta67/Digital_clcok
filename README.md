@@ -1,4 +1,4 @@
-# Digital Clock
+# Digital Clock--
 
 A simple digital clock web application built using HTML, CSS, and JavaScript. This project displays the current time in a user-friendly format and updates every second.
 
