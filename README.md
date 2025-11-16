@@ -8,7 +8,7 @@ A simple digital clock web application built using HTML, CSS, and JavaScript. Th
 - Responsive design for desktop and mobile
 - Easy to customize styles
 
-## Getting Started
+## Getting Started--
 
 ### Prerequisites
 
