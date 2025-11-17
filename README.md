@@ -26,7 +26,7 @@ A simple digital clock web application built using HTML, CSS, and JavaScript. Th
 - `index.js` - JavaScript for time logic
 - `README.md` - Project documentation
 
-## Usage
+## Usage--
 
 Simply open the `index.html` file in your browser to view the digital clock.
 
