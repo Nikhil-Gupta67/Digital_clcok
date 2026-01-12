@@ -30,7 +30,7 @@ A simple digital clock web application built using HTML, CSS, and JavaScript. Th
 
 Simply open the `index.html` file in your browser to view the digital clock.
 
-## Customization--
+## Customization
 
 - Modify `index.css` to change the appearance of the clock.
 - Update `index.js` to adjust time format or add features.
