@@ -19,7 +19,7 @@ A simple digital clock web application built using HTML, CSS, and JavaScript. Th
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
 
-### File Structure--
+### File Structure-
 
 - `index.html` - Main HTML file
 - `index.css` - Stylesheet for the clock
