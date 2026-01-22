@@ -14,7 +14,7 @@ A simple digital clock web application built using HTML, CSS, and JavaScript. Th
 
 - A modern web browser (Chrome, Firefox, Edge, etc.)
 
-### Installation--
+### Installation-
 
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
