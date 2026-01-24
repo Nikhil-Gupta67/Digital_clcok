@@ -10,7 +10,7 @@ A simple digital clock web application built using HTML, CSS, and JavaScript. Th
 
 ## Getting Started--
 
-### Prerequisites--
+### Prerequisites-
 
 - A modern web browser (Chrome, Firefox, Edge, etc.)
 
