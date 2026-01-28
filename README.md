@@ -36,5 +36,4 @@ Simply open the `index.html` file in your browser to view the digital clock.
 - Update `index.js` to adjust time format or add features.
 
 ## Created by
-
 Nikhil Gupta
