@@ -2,24 +2,24 @@
 
 A simple digital clock web application built using HTML, CSS, and JavaScript. This project displays the current time in a user-friendly format and updates every second.
 
-## Features--
+## Features
 
 - Real-time digital clock display
 - Responsive design for desktop and mobile
 - Easy to customize styles
 
-## Getting Started--
+## Getting Started
 
-### Prerequisites--
+### Prerequisites
 
 - A modern web browser (Chrome, Firefox, Edge, etc.)
 
-### Installation--
+### Installation
 
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
 
-### File Structure--
+### File Structure
 
 - `index.html` - Main HTML file
 - `index.css` - Stylesheet for the clock
