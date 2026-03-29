@@ -1,14 +1,14 @@
-# Digital Clock
+# Digital Clocks
 
 A simple digital clock web application built using HTML, CSS, and JavaScript. This project displays the current time in a user-friendly format and updates every second.
 
-## Features
+## Feature
 
 - Real-time digital clock display
 - Responsive design for desktop and mobile
 - Easy to customize styles
 
-## Getting Started
+## Getting Started 
 
 ### Prerequisites
 
@@ -36,5 +36,4 @@ Simply open the `index.html` file in your browser to view the digital clock.
 - Update `index.js` to adjust time format or add features.
 
 ## Created by
-
 Nikhil Gupta
