@@ -8,6 +8,7 @@
     width: 100%;
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background: #2f363e;
@@ -16,6 +17,13 @@
     display: flex;
     gap: 40px;
     color: #fff;
+}
+
+#date {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    color: #fff;
+    text-align: center;
 }
 
 #time .circle {
