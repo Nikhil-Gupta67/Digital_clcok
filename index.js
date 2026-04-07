@@ -2,8 +2,9 @@ setInterval(() => {
     // get time indicator elements
     let hours = document.getElementById('hours');
     let minutes = document.getElementById('minutes');
-    let secondes = document.getElementById('seconds');
+    let seconds = document.getElementById('seconds');
     let ampm = document.getElementById('ampm');
+    let date = document.getElementById('date');
   
     // digits time indicator
     let hh = document.getElementById('hh');
@@ -17,9 +18,10 @@ setInterval(() => {
     let dotS = document.querySelector('.s_dot');
   
     // get current time
-    let h = new Date().getHours();
-    let m = new Date().getMinutes();
-    let s = new Date().getSeconds();
+    let now = new Date();
+    let h = now.getHours();
+    let m = now.getMinutes();
+    let s = now.getSeconds();
     let ap = h >= 12 ? 'PM' : 'AM';
   
     // convert to 12 hour format
@@ -35,8 +37,9 @@ setInterval(() => {
     // set time and label
     hours.innerHTML = h + 'Hours';
     minutes.innerHTML = m + 'Minutes';
-    secondes.innerHTML = s + 'Seconds';
+    seconds.innerHTML = s + 'Seconds';
     ampm.innerHTML = ap;
+    date.innerHTML = now.toDateString();
   
     // set time circular indicator
     hh.style.strokeDashoffset = 440 - (440 * h) / 12;
