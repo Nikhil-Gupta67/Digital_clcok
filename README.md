@@ -39,4 +39,4 @@ Simply open the `index.html` file in your browser to view the digital clock.
 
 ## Created by
 
-Nikhil Gupta
+Nikhil Gupta-
